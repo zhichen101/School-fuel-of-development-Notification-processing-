@@ -1,0 +1,666 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "id": "ec67a69b-b519-9795-33fc-7609acb69b52",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "b903c04a-8ad1-dc48-18c0-6e67f9b0de18",
+                    "padding": "None",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "id": "43e6dead-ca8b-6f65-cb10-e23b825f5a3d",
+                            "url": "https://i.ibb.co/58qDRRd/header.jpg",
+                            "width": "580px",
+                            "horizontalAlignment": "Left",
+                            "height": "84px"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "id": "577e23e8-0c90-5ea9-0df8-9d7889159ea9",
+                    "padding": "None",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "studentInfo1",
+                            "text": "Sam N.         \nSchool: Littleton Elementary  \nClass Standing: Junior  \nEnroll Date: 08/06/2019\nWithdrawal Date: N/A",
+                            "wrap": true
+                        }
+                    ],
+                    "horizontalAlignment": "Left",
+                    "verticalContentAlignment": "Center"
+                }
+            ],
+            "padding": "Small",
+            "horizontalAlignment": "Center",
+            "style": "default"
+        },
+        {
+            "type": "Container",
+            "id": "60343c22-b6c7-9337-561f-17cef4c6d977",
+            "padding": "None",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "id": "6dca8e70-d9ea-7b25-c71e-f4f361a228b8",
+                            "padding": {
+                                "top": "Medium",
+                                "bottom": "Default",
+                                "left": "ExtraLarge",
+                                "right": "ExtraLarge"
+                            },
+                            "width": "auto",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "id": "studentInfo2",
+                                    "text": "Over the past month Sam's grade in math has dropped (an A to a C). His attendance is good, however, he has had three office discipline referrals. His Biology class is a strength - he's maintaining his A grade.",
+                                    "wrap": true
+                                }
+                            ]
+                        }
+                    ],
+                    "padding": "None"
+                }
+            ],
+            "separator": true
+        },
+        {
+            "type": "Container",
+            "id": "802af8dc-f6d8-57e4-b5d3-b3e3b9853ac6",
+            "padding": "None",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "id": "93d1ac08-0a30-aa05-d17b-69b9e79599ca",
+                            "padding": {
+                                "top": "Medium",
+                                "bottom": "None",
+                                "left": "None",
+                                "right": "None"
+                            },
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "id": "fae6382c-5385-6be7-5681-ac5ec4d4c053",
+                                    "text": "NUDGES",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "color": "Attention",
+                                    "horizontalAlignment": "Center"
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "99dfb5be-07dc-4250-1e61-aac29a22f3ab",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "f60c390c-db09-6672-e122-c7d7fdf695f8",
+                                                    "text": "Each of the following Nudges may help Sam's achievement.",
+                                                    "wrap": true
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": {
+                                        "top": "None",
+                                        "bottom": "None",
+                                        "left": "Medium",
+                                        "right": "None"
+                                    }
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "5f00340f-647e-fa5b-e522-cd997e206f70",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "149b4a46-5de0-8345-cc97-87aacd88816f",
+                                                    "text": "1. Talk with Sam about tutoring in math.",
+                                                    "wrap": true
+                                                },
+                                                {
+                                                    "type": "ColumnSet",
+                                                    "columns": [
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "477f6b2b-29e8-a009-c024-faa3f6040fd5",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "fab232d6-5241-1282-8ca9-8fca5dbdec25",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04RZWEFEtaK-5MxM8SPLmhgyJGPa9RfVACn9mopni0Jr6r0lthd2LYz8akn-Sj4W-2273tS5hGXuVILiKIb405VQZxzp-5Tuv6dgiOj_AFDgm4js_L9y7TOYGIRUuer4hE0npvm_BTEqfqk8ceFuSqQheUMTwCqMv43pM1xBft56Sr6PR1sxtNNrtYQ/s1600/Thumbs%20Up.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "horizontalAlignment": "Left",
+                                                                    "selectAction": {
+                                                                        "type": "Action.Http",
+                                                                        "method": "POST",
+                                                                        "url": "https://prod-32.westus.logic.azure.com:443/workflows/fb723784d65743a6a9b400190c66431b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=8GauDcZvsxa1UxOaKt3IJ03xmLZfRG8ZO5N9LlSZsXg"
+                                                                    },
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "4bc66a73-694d-bc76-f39e-381bc72a5e6b",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "1dfc22ff-b043-8599-02b9-1cf8f6136d25",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif9F92FAB2wpM6FpEafrC7cA6PrcjUplezHaTl-xzYUralIsyqZlQgOx4pkg6ka6JEWgPuUXWc_hZ238qvmsrzNteTM0vfNcGyolhZQHi_3r2K_hvBojO2QuAQ8GKx3G5IXELBSlgSGirhX7bZd26H6ZWOaWKtqqvAzOXums7ei3BK3Nur-gxjbU212w/s1600/Thumbs%20Down.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "0f315ffa-9979-97e0-0a1f-9e9815e0bde2",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "14147ef9-02cd-e70a-01ff-c0f1683ec393",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC_jrSXfv8YW7PJ9BBcl95wmLcWfmluYqvCKCAMm_MFCcvzqcP-_GZvtN-x8Zd9-sIFpBJa_HQKHFGuQ59T1ifBP6t9LdgV89RpPogAVe9Gs-IN2Dcrc5RgSxb-v7t_mOF9mxdLsXfMJSDDTs1TwS6OOWiN1WP37hGqpWNxrMmfYo3o3NbnEZ99wI0uw/s1600/Feedback.png",
+                                                                    "width": "25px",
+                                                                    "selectAction": {
+                                                                        "type": "Action.ToggleVisibility",
+                                                                        "targetElements": [
+                                                                            "commentBox1"
+                                                                        ]
+                                                                    },
+                                                                    "height": "25px"
+                                                                },
+                                                                {
+                                                                    "type": "ColumnSet",
+                                                                    "columns": [
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "id": "816902f4-cf6f-b7cf-cbbc-c7f43a86bfc0",
+                                                                            "padding": "None",
+                                                                            "width": "auto",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "Input.Text",
+                                                                                    "id": "inputComment1",
+                                                                                    "placeholder": "Enter text here",
+                                                                                    "isMultiline": true
+                                                                                },
+                                                                                {
+                                                                                    "type": "ActionSet",
+                                                                                    "id": "4c128d5a-c314-a31d-8b8d-ed50c67f0a72",
+                                                                                    "actions": [
+                                                                                        {
+                                                                                            "type": "Action.Http",
+                                                                                            "id": "submitComment1",
+                                                                                            "title": "Submit",
+                                                                                            "url": "https://prod-32.westus.logic.azure.com:443/workflows/fb723784d65743a6a9b400190c66431b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=8GauDcZvsxa1UxOaKt3IJ03xmLZfRG8ZO5N9LlSZsXg",
+                                                                                            "method": "POST",
+                                                                                            "body": "{\"teacherComment1\": \"{{inputComment1.value}}\"}",
+                                                                                            "headers": [
+                                                                                                {
+                                                                                                    "name": "Authorization"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Content-Type",
+                                                                                                    "value": "application/json"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "padding": "None",
+                                                                    "isVisible": false,
+                                                                    "id": "commentBox1"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "padding": {
+                                                        "top": "None",
+                                                        "bottom": "None",
+                                                        "left": "ExtraLarge",
+                                                        "right": "None"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": {
+                                        "top": "None",
+                                        "bottom": "None",
+                                        "left": "Medium",
+                                        "right": "None"
+                                    }
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "9bfb19fd-1602-66ec-1af8-6248af6e8546",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "107a7874-46fc-e203-3da2-6ab42da83440",
+                                                    "text": "2. Do a quick 10-minute check on Sam's behavior.",
+                                                    "wrap": true
+                                                },
+                                                {
+                                                    "type": "ColumnSet",
+                                                    "columns": [
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "1b843ec5-f04f-9bb3-8104-c367052ab701",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "870a873c-a88a-547f-1e46-8a1583d08f0e",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04RZWEFEtaK-5MxM8SPLmhgyJGPa9RfVACn9mopni0Jr6r0lthd2LYz8akn-Sj4W-2273tS5hGXuVILiKIb405VQZxzp-5Tuv6dgiOj_AFDgm4js_L9y7TOYGIRUuer4hE0npvm_BTEqfqk8ceFuSqQheUMTwCqMv43pM1xBft56Sr6PR1sxtNNrtYQ/s1600/Thumbs%20Up.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "horizontalAlignment": "Left",
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "bfcdd46f-305d-b2c4-7aae-816aa24cba5d",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "a2ad1eed-0037-2c3a-1f5a-48bfe8cb3393",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif9F92FAB2wpM6FpEafrC7cA6PrcjUplezHaTl-xzYUralIsyqZlQgOx4pkg6ka6JEWgPuUXWc_hZ238qvmsrzNteTM0vfNcGyolhZQHi_3r2K_hvBojO2QuAQ8GKx3G5IXELBSlgSGirhX7bZd26H6ZWOaWKtqqvAzOXums7ei3BK3Nur-gxjbU212w/s1600/Thumbs%20Down.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "896ea00c-7765-60b2-449d-55a350846d63",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "4fed215e-4654-7f97-71c8-95484fbf5130",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC_jrSXfv8YW7PJ9BBcl95wmLcWfmluYqvCKCAMm_MFCcvzqcP-_GZvtN-x8Zd9-sIFpBJa_HQKHFGuQ59T1ifBP6t9LdgV89RpPogAVe9Gs-IN2Dcrc5RgSxb-v7t_mOF9mxdLsXfMJSDDTs1TwS6OOWiN1WP37hGqpWNxrMmfYo3o3NbnEZ99wI0uw/s1600/Feedback.png",
+                                                                    "width": "25px",
+                                                                    "selectAction": {
+                                                                        "type": "Action.ToggleVisibility",
+                                                                        "targetElements": [
+                                                                            "commentBox2"
+                                                                        ]
+                                                                    },
+                                                                    "height": "25px"
+                                                                },
+                                                                {
+                                                                    "type": "ColumnSet",
+                                                                    "columns": [
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "id": "78c32213-93a9-5ebe-8db3-7d546ac47424",
+                                                                            "padding": "None",
+                                                                            "width": "auto",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "Input.Text",
+                                                                                    "id": "inputComment2",
+                                                                                    "placeholder": "Enter text here",
+                                                                                    "isMultiline": true
+                                                                                },
+                                                                                {
+                                                                                    "type": "ActionSet",
+                                                                                    "id": "58c33742-8776-7154-4b9b-0459ced5a57f",
+                                                                                    "actions": [
+                                                                                        {
+                                                                                            "type": "Action.Http",
+                                                                                            "id": "submitComment2",
+                                                                                            "title": "Submit",
+                                                                                            "url": "https://prod-32.westus.logic.azure.com:443/workflows/fb723784d65743a6a9b400190c66431b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=8GauDcZvsxa1UxOaKt3IJ03xmLZfRG8ZO5N9LlSZsXg",
+                                                                                            "method": "POST",
+                                                                                            "body": "{\"teacherComment2\": \"{{inputComment2.value}}\"}",
+                                                                                            "headers": [
+                                                                                                {
+                                                                                                    "name": "Authorization",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Content-Type",
+                                                                                                    "value": "application/json"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "padding": "None",
+                                                                    "isVisible": false,
+                                                                    "id": "commentBox2"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "padding": {
+                                                        "top": "None",
+                                                        "bottom": "None",
+                                                        "left": "ExtraLarge",
+                                                        "right": "None"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": {
+                                        "top": "None",
+                                        "bottom": "None",
+                                        "left": "Medium",
+                                        "right": "None"
+                                    }
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "7c08bee2-b97b-3431-fe79-54e94b89a473",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "822d3bd5-18d1-39fd-5d63-0d25e06b548f",
+                                                    "text": "3. Congratulate Sam on his Biology class achievement!",
+                                                    "wrap": true
+                                                },
+                                                {
+                                                    "type": "ColumnSet",
+                                                    "columns": [
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "bce4f4a7-f2fe-8b53-196e-e66ad8d151ff",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "6a850a26-d1d4-8b0c-7515-001f7f0725e1",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04RZWEFEtaK-5MxM8SPLmhgyJGPa9RfVACn9mopni0Jr6r0lthd2LYz8akn-Sj4W-2273tS5hGXuVILiKIb405VQZxzp-5Tuv6dgiOj_AFDgm4js_L9y7TOYGIRUuer4hE0npvm_BTEqfqk8ceFuSqQheUMTwCqMv43pM1xBft56Sr6PR1sxtNNrtYQ/s1600/Thumbs%20Up.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "horizontalAlignment": "Left",
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "22d48ed0-de47-0967-3997-38bc5f87d099",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "1f4dad12-d5c7-d766-8a67-a04eec12c149",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif9F92FAB2wpM6FpEafrC7cA6PrcjUplezHaTl-xzYUralIsyqZlQgOx4pkg6ka6JEWgPuUXWc_hZ238qvmsrzNteTM0vfNcGyolhZQHi_3r2K_hvBojO2QuAQ8GKx3G5IXELBSlgSGirhX7bZd26H6ZWOaWKtqqvAzOXums7ei3BK3Nur-gxjbU212w/s1600/Thumbs%20Down.png",
+                                                                    "size": "Stretch",
+                                                                    "width": "20px",
+                                                                    "height": "20px"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "Column",
+                                                            "id": "20685561-edfd-f7bb-e7d3-d2563e7e15aa",
+                                                            "padding": "None",
+                                                            "width": "auto",
+                                                            "items": [
+                                                                {
+                                                                    "type": "Image",
+                                                                    "id": "b7dfaeaf-fe96-ea62-32d3-724cd0b36a21",
+                                                                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC_jrSXfv8YW7PJ9BBcl95wmLcWfmluYqvCKCAMm_MFCcvzqcP-_GZvtN-x8Zd9-sIFpBJa_HQKHFGuQ59T1ifBP6t9LdgV89RpPogAVe9Gs-IN2Dcrc5RgSxb-v7t_mOF9mxdLsXfMJSDDTs1TwS6OOWiN1WP37hGqpWNxrMmfYo3o3NbnEZ99wI0uw/s1600/Feedback.png",
+                                                                    "width": "25px",
+                                                                    "selectAction": {
+                                                                        "type": "Action.ToggleVisibility",
+                                                                        "targetElements": [
+                                                                            "commentBox3"
+                                                                        ]
+                                                                    },
+                                                                    "height": "25px"
+                                                                },
+                                                                {
+                                                                    "type": "ColumnSet",
+                                                                    "columns": [
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "id": "eb53b1bd-4214-991a-d5fb-05590f43ba5c",
+                                                                            "padding": "None",
+                                                                            "width": "auto",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "Input.Text",
+                                                                                    "id": "inputComment3",
+                                                                                    "placeholder": "Enter text here",
+                                                                                    "isMultiline": true
+                                                                                },
+                                                                                {
+                                                                                    "type": "ActionSet",
+                                                                                    "id": "10f5532e-cff3-9849-b4a9-1228428ec2d1",
+                                                                                    "actions": [
+                                                                                        {
+                                                                                            "type": "Action.Http",
+                                                                                            "id": "submitComment3",
+                                                                                            "title": "Submit",
+                                                                                            "url": "https://prod-32.westus.logic.azure.com:443/workflows/fb723784d65743a6a9b400190c66431b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=8GauDcZvsxa1UxOaKt3IJ03xmLZfRG8ZO5N9LlSZsXg",
+                                                                                            "method": "POST",
+                                                                                            "body": "{\"teacherComment3\": \"{{inputComment3.value}}\"}",
+                                                                                            "headers": [
+                                                                                                {
+                                                                                                    "name": "Authorization",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Content-Type",
+                                                                                                    "value": "application/json"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "padding": "None",
+                                                                    "isVisible": false,
+                                                                    "id": "commentBox3"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "padding": {
+                                                        "top": "None",
+                                                        "bottom": "None",
+                                                        "left": "ExtraLarge",
+                                                        "right": "None"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": {
+                                        "top": "None",
+                                        "bottom": "None",
+                                        "left": "Medium",
+                                        "right": "None"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "id": "b16e640c-6bdb-7387-036d-066074a6534f",
+                            "padding": {
+                                "top": "Medium",
+                                "bottom": "Default",
+                                "left": "Default",
+                                "right": "Default"
+                            },
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "id": "7f6751b8-33b8-aa26-6663-b3e6f3296c2c",
+                                    "text": "PROFESSIONAL DEVELOPMENT",
+                                    "wrap": true,
+                                    "weight": "Bolder",
+                                    "color": "Attention",
+                                    "horizontalAlignment": "Center"
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "173469f4-1db5-3a78-36cb-3f5b4a2aa7ae",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "127a91b9-d847-0dad-6e84-2aa95d54faf6",
+                                                    "text": "Video: Helping Teens Make Better Choices:",
+                                                    "wrap": true
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "Column",
+                                            "id": "d07d6fc0-81e1-6a55-30bc-4c9b057e0cef",
+                                            "padding": {
+                                                "top": "None",
+                                                "bottom": "None",
+                                                "left": "None",
+                                                "right": "ExtraLarge"
+                                            },
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "Image",
+                                                    "id": "8b323ef4-24c7-aca6-8bdb-4effbccd5188",
+                                                    "url": "https://cdn3.iconfinder.com/data/icons/unicons-vector-icons-pack/32/youtube-512.png",
+                                                    "size": "Medium",
+                                                    "width": "60px",
+                                                    "selectAction": {
+                                                        "type": "Action.OpenUrl",
+                                                        "url": "https://www.youtube.com"
+                                                    },
+                                                    "height": "60px"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": "None"
+                                },
+                                {
+                                    "type": "ColumnSet",
+                                    "columns": [
+                                        {
+                                            "type": "Column",
+                                            "id": "01c74af9-53a8-3f06-2ece-6921d2b359eb",
+                                            "padding": "None",
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "TextBlock",
+                                                    "id": "e54ed124-e65a-9a7f-ec51-ce587d1f6f89",
+                                                    "text": "Article: Using Discipline Conferences to Understand Achievement Issues",
+                                                    "wrap": true
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "Column",
+                                            "id": "05a0829a-b844-06be-11f7-1197d73dcc25",
+                                            "padding": {
+                                                "top": "None",
+                                                "bottom": "None",
+                                                "left": "None",
+                                                "right": "ExtraLarge"
+                                            },
+                                            "width": "auto",
+                                            "items": [
+                                                {
+                                                    "type": "Image",
+                                                    "id": "4521b2b3-3a2c-8148-6ec7-7e6fbd858e22",
+                                                    "url": "https://i.ibb.co/7yFq67v/book.png",
+                                                    "selectAction": {
+                                                        "type": "Action.OpenUrl",
+                                                        "url": "https://www.youtube.com"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "padding": "None"
+                                }
+                            ]
+                        }
+                    ],
+                    "padding": "None"
+                }
+            ],
+            "separator": true
+        }
+    ],
+    "padding": "None",
+    "@type": "AdaptiveCard",
+    "@context": "http://schema.org/extensions"
+}

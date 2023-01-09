@@ -1,0 +1,143 @@
+H,000000,
+B,12345,&1 is doing well in &2.
+B,98765,They have had &1 office referrals.
+B,55544,There strength is in &1.
+B,32331,"Over the past &1,they have missed &2 days of school."
+B,32339,"Played too much &1, and they have &2 in restaurant."
+B,32340,That is the reason why failing &1 class.
+B,32341,Also failed &1 class in &2 year.
+B,32342,Having some &1 issues and currently on &2 treatments.
+N,00001,Do a quick 10 minute behavior check.,https://www.youtube.com/watch?v=Qcb3iC8ZVb8,https://www.youtube.com/watch?v=E_AhudFZnM0
+N,00002,Tutoring may help to improve grades.,https://www.youtube.com/watch?v=HJO51GpRwwg,https://www.youtube.com/watch?v=SDTGfk6EEvw
+N,00003,Go ask help from teachers.,https://www.youtube.com/watch?v=HJO51GpRwwg,https://www.youtube.com/watch?v=SDTGfk6EEvw
+N,00004,Do group study with friends.,https://www.youtube.com/watch?v=HJO51GpRwwg,https://www.youtube.com/watch?v=SDTGfk6EEvw
+N,00005,Making flash cards.,https://www.youtube.com/watch?v=HJO51GpRwwg,https://www.youtube.com/watch?v=SDTGfk6EEvw
+N,00006,Spent more time on studying instead playing games.,https://www.youtube.com/watch?v=HJO51GpRwwg,https://www.youtube.com/watch?v=SDTGfk6EEvw
+N,00007,testing 3.,https://genshin-impact.fandom.com/wiki/Xiao,https://www.youtube.com/watch?v=EPh6zPIYkao
+N,00008,testing 4.,https://genshin-impact.fandom.com/wiki/Qingxin,https://www.youtube.com/watch?v=05n2RaItSDw
+N,00009,this is just testing nothing serious.,https://genshin-impact.fandom.com/wiki/Qingxin,https://www.youtube.com/watch?v=05n2RaItSDw
+P,prealgebra_intro,https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13&index=1
+P,prealgebra_addition_subtraction,https://www.youtube.com/watch?v=mRRnpz6udeE&list=PL4C9296DF81B9EF13&index=2  
+P,prealgebra_round_estimating,https://www.youtube.com/watch?v=SV0z6ZcpKtQ&list=PL4C9296DF81B9EF13&index=3 
+P,prealgebra_multiplication,https://www.youtube.com/watch?v=YkfDOwHYb8w&list=PL4C9296DF81B9EF13&index=4  
+P,prealgebra_division,https://www.youtube.com/watch?v=29pVwoK0M0s&list=PL4C9296DF81B9EF13&index=5  
+P,prealgebra_exponent,https://www.youtube.com/watch?v=NKrxqWhf01Q&list=PL4C9296DF81B9EF13&index=6  
+P,prealgebra_variable_expression,https://www.youtube.com/watch?v=hURKivs0GIs&list=PL4C9296DF81B9EF13&index=7  
+P,prealgebra_intro_integers,https://www.youtube.com/watch?v=ZfujseLAsdQ&list=PL4C9296DF81B9EF13&index=8  
+P,prealgebra_adding_rules,https://www.youtube.com/watch?v=xxtKyNmmD8o&list=PL4C9296DF81B9EF13&index=9  
+P,prealgebra_subtracting,https://www.youtube.com/watch?v=yX2eRHXmT6o&list=PL4C9296DF81B9EF13&index=10  
+P,prealgebra_multiplying,https://www.youtube.com/watch?v=bbAF80klBbs&list=PL4C9296DF81B9EF13&index=11  
+P,prealgebra_order_operation,https://www.youtube.com/watch?v=v0Kk908aJIg&list=PL4C9296DF81B9EF13&index=12  
+P,prealgebra_solving_basic_equation,https://www.youtube.com/watch?v=4hDDWuibpf4&list=PL4C9296DF81B9EF13&index=13  
+P,prealgebra_simplifying_expression,https://www.youtube.com/watch?v=E2BoPzUIJDk&list=PL4C9296DF81B9EF13&index=14  
+P,prealgebra_basic_equations,https://www.youtube.com/watch?v=w0TmOCn2mSg&list=PL4C9296DF81B9EF13&index=15  
+P,prealgebra_general_equation,https://www.youtube.com/watch?v=84O6OdooLas&list=PL4C9296DF81B9EF13&index=16  
+P,prealgebra_word_problems,https://www.youtube.com/watch?v=Qv8Mfjyyjto&list=PL4C9296DF81B9EF13&index=17  
+P,prealgebra_fraction,https://www.youtube.com/watch?v=xEhnGTOC02E&list=PL4C9296DF81B9EF13&index=18  
+P,prealgebra_prime_factorization,https://www.youtube.com/watch?v=p1mV9nBU8B8&list=PL4C9296DF81B9EF13&index=19  
+P,prealgebra_multiply_divide_fraction,https://www.youtube.com/watch?v=y0YjFlkuGwY&list=PL4C9296DF81B9EF13&index=20  
+P,prealgebra_add_subtract_fraction,https://www.youtube.com/watch?v=JqyQoJFD3dA&list=PL4C9296DF81B9EF13&index=21  
+P,prealgebra_handling_no_denominator,https://www.youtube.com/watch?v=i1jQOSs-5sY&list=PL4C9296DF81B9EF13&index=22  
+P,prealgebra_simplifying_complex_fraction,https://www.youtube.com/watch?v=Kg2B4Rk7Wsc&list=PL4C9296DF81B9EF13&index=23  
+P,prealgebra_mixed_number_fractions,https://www.youtube.com/watch?v=wXB-CA9C2dY&list=PL4C9296DF81B9EF13&index=24  
+P,prealgebra_equation_fraction,https://www.youtube.com/watch?v=I04mEnnRJSM&list=PL4C9296DF81B9EF13&index=25  
+P,prealgebra_intro_decimals,https://www.youtube.com/watch?v=YyHKzTSq6Qw&list=PL4C9296DF81B9EF13&index=26  
+P,prealgebra_adding_subtracting_decimals,https://www.youtube.com/watch?v=4DTR3fVrbjE&list=PL4C9296DF81B9EF13&index=27  
+P,prealgebra_multiply_decimal_numbers,https://www.youtube.com/watch?v=SD_7WctIuMw&list=PL4C9296DF81B9EF13&index=28  
+P,prealgebra_dividing_decimal_numbers,https://www.youtube.com/watch?v=wreYJRklnmY&list=PL4C9296DF81B9EF13&index=29  
+P,prealgebra_translating_fraction_to_decimal,https://www.youtube.com/watch?v=J-243dlO6b8&list=PL4C9296DF81B9EF13&index=30  
+P,prealgebra_equation_with_decimal,https://www.youtube.com/watch?v=SaVT-dhsw_g&list=PL4C9296DF81B9EF13&index=31  
+P,prealgebra_finding_average,https://www.youtube.com/watch?v=8U1ZVEIWFLs&list=PL4C9296DF81B9EF13&index=32  
+P,prealgebra_simplifying_ratios,https://www.youtube.com/watch?v=vtjQLbnIeck&list=PL4C9296DF81B9EF13&index=33  
+P,prealgebra_equations_with_proportions,https://www.youtube.com/watch?v=peoM_MIebuA&list=PL4C9296DF81B9EF13&index=34  
+P,prealgebra_applications_with_proportions,https://www.youtube.com/watch?v=eiSeEzzXfuI&list=PL4C9296DF81B9EF13&index=35  
+P,prealgebra_simplify_square_root,https://www.youtube.com/watch?v=FdLA93kCr8Y&list=PL4C9296DF81B9EF13&index=36  
+P,prealgebra_percent_percentage,https://www.youtube.com/watch?v=9-59czMohx8&list=PL4C9296DF81B9EF13&index=37  
+P,prealgebra_percent_equations,https://www.youtube.com/watch?v=GZcRnwXh2MM&list=PL4C9296DF81B9EF13&index=38  
+P,prealgebra_percent_increase_decrease,https://www.youtube.com/watch?v=AHpbJFSely0&list=PL4C9296DF81B9EF13&index=39  
+P,prealgebra_solving_sales_tax,https://www.youtube.com/watch?v=qvKt647UtnU&list=PL4C9296DF81B9EF13&index=40  
+P,prealgebra_simple_interest_compound,https://www.youtube.com/watch?v=b3FZRzIov8E&list=PL4C9296DF81B9EF13&index=41  
+P,prealgebra_adding_subtracting_polynomials,https://www.youtube.com/watch?v=V07jIK85suY&list=PL4C9296DF81B9EF13&index=42  
+P,prealgebra_properties_exponents,https://www.youtube.com/watch?v=6qUWxwmnGao&list=PL4C9296DF81B9EF13&index=43  
+P,prealgebra_multiplying_polynomials_distributive_property,https://www.youtube.com/watch?v=yVhG1eMGUVU&list=PL4C9296DF81B9EF13&index=44  
+P,world_history_Agricultural_Revolution,https://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9&index=1
+P,world_history_Indus_Valley_Civilization,https://www.youtube.com/watch?v=n7ndRwqJYDM&list=PLBDA2E52FB1EF80C9&index=2
+P,world_history_Mesopotamia,https://www.youtube.com/watch?v=sohXPx_XZ6Y&list=PLBDA2E52FB1EF80C9&index=3
+P,world_history_Ancient_Egypt,https://www.youtube.com/watch?v=Z3Wvw6BivVI&list=PLBDA2E52FB1EF80C9&index=4
+P,world_history_Persians_Greeks,https://www.youtube.com/watch?v=Q-mkVSasZIM&list=PLBDA2E52FB1EF80C9&index=5
+P,world_history_Buddha_a_Ashoka,https://www.youtube.com/watch?v=8Nn5uqE3C9w&list=PLBDA2E52FB1EF80C9&index=6
+P,world_history_Chinese_History,https://www.youtube.com/watch?v=ylWORyToTo4&list=PLBDA2E52FB1EF80C9&index=7
+P,world_history_Alexander_the_Great,https://www.youtube.com/watch?v=0LsrkWDCvxg&list=PLBDA2E52FB1EF80C9&index=8
+P,world_history_Silk_Road,https://www.youtube.com/watch?v=vfe-eNq-Qyg&list=PLBDA2E52FB1EF80C9&index=9
+P,world_history_Roman_Empire,https://www.youtube.com/watch?v=oPf27gAup9U&list=PLBDA2E52FB1EF80C9&index=10
+P,world_history_Christianity,https://www.youtube.com/watch?v=TG55ErfdaeY&list=PLBDA2E52FB1EF80C9&index=11
+P,world_history_Roman_Empire_15_century,https://www.youtube.com/watch?v=3PszVWZNWVA&list=PLBDA2E52FB1EF80C9&index=12
+P,world_history_Five_Pillars,https://www.youtube.com/watch?v=TpcbfxtdoI8&list=PLBDA2E52FB1EF80C9&index=13
+P,world_history_Dark_ages,https://www.youtube.com/watch?v=QV7CanyzhZg&list=PLBDA2E52FB1EF80C9&index=14
+P,world_history_Crusades,https://www.youtube.com/watch?v=X0zudTQelzI&list=PLBDA2E52FB1EF80C9&index=15
+P,world_history_Mansa_Musa_Islam_Africa,https://www.youtube.com/watch?v=jvnU0v6hcUo&list=PLBDA2E52FB1EF80C9&index=16
+P,world_history_Mongols,https://www.youtube.com/watch?v=szxPar0BcMo&list=PLBDA2E52FB1EF80C9&index=17
+P,world_history_Indian_Ocean_Trade,https://www.youtube.com/watch?v=a6XtBLDmPA0&list=PLBDA2E52FB1EF80C9&index=18
+P,world_history_Venice_and_the_Ottoman_Empire,https://www.youtube.com/watch?v=UN-II_jBzzo&list=PLBDA2E52FB1EF80C9&index=19
+P,world_history_Russia_Kievan_Rus,https://www.youtube.com/watch?v=etmRI2_9Q_A&list=PLBDA2E52FB1EF80C9&index=20
+P,world_history_Columbus,https://www.youtube.com/watch?v=NjEGncridoQ&list=PLBDA2E52FB1EF80C9&index=21
+P,world_history_Renaissance,https://www.youtube.com/watch?v=Vufba_ZcoR0&list=PLBDA2E52FB1EF80C9&index=22
+P,world_history_Columbian_Exchange,https://www.youtube.com/watch?v=HQPA5oNpfM4&list=PLBDA2E52FB1EF80C9&index=23
+P,world_history_Atlantic_Slave_Trad,https://www.youtube.com/watch?v=dnV_MTFEGIY&list=PLBDA2E52FB1EF80C9&index=24
+P,world_history_Spanish_Empire,https://www.youtube.com/watch?v=rjhIzemLdos&list=PLBDA2E52FB1EF80C9&index=25
+P,world_history_Seven_Years_War,https://www.youtube.com/watch?v=j0qbzNHmfW0&list=PLBDA2E52FB1EF80C9&index=26
+P,world_history_Captain_Cook,https://www.youtube.com/watch?v=2yXNrLTddME&list=PLBDA2E52FB1EF80C9&index=27
+P,world_history_American_Revolution,https://www.youtube.com/watch?v=HlUiSBXQHCw&list=PLBDA2E52FB1EF80C9&index=28
+P,world_history_French_Revolution,https://www.youtube.com/watch?v=lTTvKwCylFY&list=PLBDA2E52FB1EF80C9&index=29
+P,world_history_Haitian_Revolutions,https://www.youtube.com/watch?v=5A_o-nU5s2U&list=PLBDA2E52FB1EF80C9&index=30
+P,world_history_Latin_American_Revolutions,https://www.youtube.com/watch?v=ZBw35Ze3bg8&list=PLBDA2E52FB1EF80C9&index=31
+P,world_history_Industrial_Revolution,https://www.youtube.com/watch?v=zhL5DCizj5c&list=PLBDA2E52FB1EF80C9&index=32
+P,world_history_Capitalism_Socialism,https://www.youtube.com/watch?v=B3u4EFTwprM&list=PLBDA2E52FB1EF80C9&index=33
+P,world_history_Nationalism,https://www.youtube.com/watch?v=Nosq94oCl_M&list=PLBDA2E52FB1EF80C9&index=34
+P,world_history_Imperialism,https://www.youtube.com/watch?v=alJaltUmrGo&list=PLBDA2E52FB1EF80C9&index=35
+P,world_history_World_War_I,https://www.youtube.com/watch?v=_XPZQ0LAlR4&list=PLBDA2E52FB1EF80C9&index=36
+P,world_history_Communists,https://www.youtube.com/watch?v=UUCEeC4f6ts&list=PLBDA2E52FB1EF80C9&index=37
+P,world_history_World_War_II,https://www.youtube.com/watch?v=Q78COTwT7nE&list=PLBDA2E52FB1EF80C9&index=38
+P,world_history_Cold_War,https://www.youtube.com/watch?v=y9HjvHZfCUI&list=PLBDA2E52FB1EF80C9&index=39
+P,world_history_Decolonization_and_Nationalism_Triumphant,https://www.youtube.com/watch?v=T_sGTspaF4Y&list=PLBDA2E52FB1EF80C9&index=40
+P,world_history_Globalization,https://www.youtube.com/watch?v=5SnR-e0S6Ic&list=PLBDA2E52FB1EF80C9&index=41
+P,world_history_Globalization2,https://www.youtube.com/watch?v=s_iwrt7D5OA&list=PLBDA2E52FB1EF80C9&index=42
+P,biology_carbon,https://www.youtube.com/watch?v=QnQe0xW_JY4&list=PL85DAC0D839450D28
+P,biology_water,https://www.youtube.com/watch?v=HVT3Y3_gHGg&list=PL85DAC0D839450D28&index=2
+P,biology_Molecules,https://www.youtube.com/watch?v=H8WJ2KENlK0&list=PL85DAC0D839450D28&index=3
+P,biology_Animal_Cells,https://www.youtube.com/watch?v=cj8dDTHGJBY&list=PL85DAC0D839450D28&index=4
+P,biology_Transport,https://www.youtube.com/watch?v=dPKvHrD1eS4&list=PL85DAC0D839450D28&index=5
+P,biology_plant_cells,https://www.youtube.com/watch?v=9UvlqAVCoqY&list=PL85DAC0D839450D28&index=6
+P,biology_ATP,https://www.youtube.com/watch?v=00jbG_cfGuQ&list=PL85DAC0D839450D28&index=7
+P,biology_Photosynthesis,https://www.youtube.com/watch?v=sQK3Yr4Sc_k&list=PL85DAC0D839450D28&index=8
+P,biology_Heredity,https://www.youtube.com/watch?v=CBezq1fFUEA&list=PL85DAC0D839450D28&index=9
+P,biology_DNA,https://www.youtube.com/watch?v=8kK2zwjRV0M&list=PL85DAC0D839450D28&index=10
+P,biology_DNA2,https://www.youtube.com/watch?v=itsb2SqR-R0&list=PL85DAC0D839450D28&index=11
+P,biology_Mitosis,https://www.youtube.com/watch?v=L0k-enzoeOM&list=PL85DAC0D839450D28&index=12
+P,biology_Mitosis_sex,https://www.youtube.com/watch?v=qCLmR9-YY7o&list=PL85DAC0D839450D28&index=13
+P,biology_Natural_Selection,https://www.youtube.com/watch?v=aTftyFboC_M&list=PL85DAC0D839450D28&index=14
+P,biology_Speciation,https://www.youtube.com/watch?v=2oKlKmrbLoU&list=PL85DAC0D839450D28&index=15
+P,biology_Animal_Development,https://www.youtube.com/watch?v=k_9MTZgAhv0&list=PL85DAC0D839450D28&index=16
+P,biology_Evolutionary_Development,https://www.youtube.com/watch?v=9sjwlxQ_6LI&list=PL85DAC0D839450D28&index=17
+P,biology_Population_Genetics,https://www.youtube.com/watch?v=WhFKPaRnTdQ&list=PL85DAC0D839450D28&index=18
+P,biology_Taxonomy,https://www.youtube.com/watch?v=F38BmgPcZ_I&list=PL85DAC0D839450D28&index=19
+P,biology_Evolution,https://www.youtube.com/watch?v=P3GagfbA2vo&list=PL85DAC0D839450D28&index=20
+P,biology_Comparative_Anatomy,https://www.youtube.com/watch?v=7ABSjKS0hic&list=PL85DAC0D839450D28&index=21
+P,biology_Simple_Animals,https://www.youtube.com/watch?v=tIfsHPpkSPs&list=PL85DAC0D839450D28&index=22
+P,biology_Complex_Animals,https://www.youtube.com/watch?v=YQb7Xq0enTI&list=PL85DAC0D839450D28&index=23
+P,biology_Animal_Behavior,https://www.youtube.com/watch?v=EyyDq19Mi3A&list=PL85DAC0D839450D28&index=24
+P,biology_Chordates,https://www.youtube.com/watch?v=kgZRZmEc9j4&list=PL85DAC0D839450D28&index=25
+P,biology_Nervous_System,https://www.youtube.com/watch?v=x4PPZCLnVkA&list=PL85DAC0D839450D28&index=26
+P,biology_Circulatory,https://www.youtube.com/watch?v=9fxm85Fy4sQ&list=PL85DAC0D839450D28&index=27
+P,biology_Digestive_System,https://www.youtube.com/watch?v=s06XzaKqELk&list=PL85DAC0D839450D28&index=28
+P,biology_Excretory_System,https://www.youtube.com/watch?v=WtrYotjYvtU&list=PL85DAC0D839450D28&index=29
+P,biology_Skeletal_System,https://www.youtube.com/watch?v=RW46rQKWa-g&list=PL85DAC0D839450D28&index=30
+P,biology_Muscular_System,https://www.youtube.com/watch?v=jqy0i1KXUO4&list=PL85DAC0D839450D28&index=31
+P,biology_Immune_System,https://www.youtube.com/watch?v=CeVtPDjJBPU&list=PL85DAC0D839450D28&index=32
+P,biology_Endocrine_System,https://www.youtube.com/watch?v=WVrlHH14q3o&list=PL85DAC0D839450D28&index=33
+P,biology_Reproductive_System,https://www.youtube.com/watch?v=_7rsH2loIY8&list=PL85DAC0D839450D28&index=34
+P,biology_Bacteria,https://www.youtube.com/watch?v=vAR47-g6tlA&list=PL85DAC0D839450D28&index=35
+P,biology_Vascular_Plants,https://www.youtube.com/watch?v=h9oDTMXM7M8&list=PL85DAC0D839450D28&index=37
+P,biology_Bees,https://www.youtube.com/watch?v=ExaQ8shhkw8&list=PL85DAC0D839450D28&index=38
+P,biology_fungi,https://www.youtube.com/watch?v=m4DUZhnNo4s&list=PL85DAC0D839450D28&index=39
+P,biology_Ecology,https://www.youtube.com/watch?v=izRvPaAWgyw&list=PL85DAC0D839450D28&index=40
